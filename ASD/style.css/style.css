@@ -1,0 +1,17 @@
+.color-red
+    {
+        color: rgb(255, 255, 255);
+}
+.color-orng{
+    color: sandybrown;
+}
+.body{
+    background-color:#E9ECEF;
+}
+
+.pill{
+    background-color: rgb(136, 12, 12); 
+    color: white; 
+    font-size: 9px;
+    
+}
